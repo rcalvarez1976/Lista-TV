@@ -72,9 +72,5 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="general",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece (2)" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="general",El Trece
-https://streaming.eltrece.com.ar/hls/eltrece.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece (3)" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="general",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar" tvg-name="TyC Sports Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="sports",TyC Sports Latin America
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
