@@ -7,8 +7,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="general",TV Publica
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="general",El Trece
+#EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="general",CANAL 13
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="general",Discovery Kids
 http://181.119.85.222:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="general",Cartoon Network
