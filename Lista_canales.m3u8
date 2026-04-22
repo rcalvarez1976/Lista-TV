@@ -99,56 +99,6 @@ http://181.78.201.70:8000/play/a0pt/index.m3u8
 http://181.78.201.70:8000/play/a0ia/index.m3u8
 #EXTINF:-1 tvg-id="1mus" tvg-name="1Mus" tvg-logo="https://i.imgur.com/1Mus.png" group-title="general",1Mus
 http://rtmp.one.by:2300/
-#EXTINF:-1 tvg-id="now-rock" tvg-name="Now Rock" tvg-logo="https://i.imgur.com/NowRock.png" group-title="general",Now Rock
-https://bit.ly/3B1M54o?/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="golden-premiere" tvg-name="Golden Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Golden_logo.svg/512px-Golden_logo.svg.png" group-title="🎬 Películas",Golden Premiere
-http://200.125.170.122:8000/play/a00l
-#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="🎬 Películas",Cinecanal
-http://181.119.86.68:8000/play/b036/index.m3u8
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_logo.svg/512px-Cinemax_logo.svg.png" group-title="🎬 Películas",Cinemax
-http://181.78.201.70:8000/play/a0hi/index.m3u8
-#EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="🎬 Películas",FX
-http://181.119.85.222:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula" tvg-name="De Película" tvg-logo="https://i.imgur.com/DePelicula.png" group-title="🎬 Películas",De Película
-http://181.119.85.222:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="sony-movies" tvg-name="Sony Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Pictures_Television_logo.svg/512px-Sony_Pictures_Television_logo.svg.png" group-title="🎬 Películas",Sony Movies HD
-http://179.51.136.19:8000/play/a1aa/index.m3u8
-#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceTV.svg/512px-SpaceTV.svg.png" group-title="🎬 Películas",Space
-http://181.78.106.127:9000/play/ca072/index.m3u8
-#EXTINF:-1 tvg-id="star-channel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="🎬 Películas",Star Channel
-http://181.119.86.68:8000/play/b014/index.m3u8
-#EXTINF:-1 tvg-id="star-channel-sd" tvg-name="Star Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="🎬 Películas",Star Channel SD
-http://200.60.124.19:29000/play/a01r
-#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Studio_Universal.svg/512px-Studio_Universal.svg.png" group-title="🎬 Películas",Studio Universal
-http://181.119.86.68:8000/play/c024/index.m3u8
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/512px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="🎬 Películas",TCM
-http://181.78.201.70:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="🎬 Películas",TNT
-http://181.78.201.70:8000/play/a0v4/index.m3u8
-#EXTINF:-1 tvg-id="universal-tv" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="📺 Series",Universal TV
-http://181.119.85.222:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="warner-hd" tvg-name="Warner HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/512px-Warner_Bros_logo.svg.png" group-title="🎬 Películas",Warner HD
-http://179.51.136.19:8000/play/a0wx/index.m3u8
-#EXTINF:-1 tvg-id="warner-sd" tvg-name="Warner SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/512px-Warner_Bros_logo.svg.png" group-title="🎬 Películas",Warner SD
-http://200.60.124.19:29000/play/a013
-#EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Pictures_Television_logo.svg/512px-Sony_Pictures_Television_logo.svg.png" group-title="🎬 Películas",Sony HD
-http://181.119.86.68:8000/play/c023/index.m3u8
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🎬 Películas",AMC
-http://181.78.201.70:8000/play/a0pm/index.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🎬 Películas",AXN HD
-http://181.119.85.222:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="paramount" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Network_logo.svg/512px-Paramount_Network_logo.svg.png" group-title="🎬 Películas",Paramount
-http://179.51.136.19:8000/play/a1am/index.m3u8
-#EXTINF:-1 tvg-id="tnt-series" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="📺 Series",TNT Series
-http://181.78.201.70:8000/play/a0pn/index.m3u8
 
-#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="📚 Documentales",Animal Planet
-http://181.119.85.222:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📚 Documentales",National Geographic
-http://179.51.136.19:8000/play/a1bd/index.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="📚 Documentales",History Channel
-http://181.119.86.68:8000/play/c020/index.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="📚 Documentales",Discovery Channel HD
-http://181.119.86.68:8000/play/c012/index.m3u8
