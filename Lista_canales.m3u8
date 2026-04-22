@@ -10,10 +10,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.
 #EXTINF:-1 tvg-ID="ElTrece.ar" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/canal_13.png" group-title="general",CANAL 13
 https://globoview.cam/directorio/argentina/el-trece/
 
-#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="general",Discovery Kids
-http://181.119.85.222:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="general",Cartoon Network
-http://181.78.201.70:8000/play/a0h0/index.m3u8
+
 #EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="general",Disney Junior
 http://179.51.136.19:8000/play/a1g3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="general",Disney Jr. Latin America
