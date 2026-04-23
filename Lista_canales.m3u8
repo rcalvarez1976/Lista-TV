@@ -14,14 +14,15 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
 https://panel.host-live.com:19360/8250/8250.m3u8
 
-#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="general",Disney Junior
-http://179.51.136.19:8000/play/a1g3/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="general",Disney Jr. Latin America
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="general",Disney Channel Latin America
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/512px-Tooncast_logo.svg.png" group-title="general",Tooncast
 http://181.78.201.70:8000/play/a0tg/index.m3u8
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="general",Disney Junior
+http://179.51.136.19:8000/play/a1g3/index.m3u8
 #EXTINF:-1 tvg-id="fmh-kids" tvg-name="FMH Kids" tvg-logo="https://i.imgur.com/FMHKids.png" group-title="general",FMH Kids
 http://181.119.86.68:8000/play/b037/index.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="general",Pakapaka
