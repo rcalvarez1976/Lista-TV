@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2719" group="Infantiles", Cartoon Network HD
-http://172.16.0.5:8000/play/a0ar/index.m3u8
-
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="general",El Nueve
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="general",America TV
